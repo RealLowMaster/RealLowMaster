@@ -1,6 +1,6 @@
-### Hi there, I'm LowMaster
+# Hi there, I'm LowMaster
 
-## I'm a Developer
+### I'm a Developer
 - :tophat: I'm currently working on `Rule34 Browser Pro` Version
 - :books: I'm currently adding a lot of thing to my programing knowledge
 - :soccer: 2023 Goals:
