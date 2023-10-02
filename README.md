@@ -35,6 +35,13 @@
 ![Blender](https://skillicons.dev/icons?i=blender)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
+<!-- --- -->
+
+<!-- ### Latest YouTube Videos -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+<!-- --- -->
 
 <!-- ### Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
