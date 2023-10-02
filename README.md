@@ -35,6 +35,10 @@
 ![Blender](https://skillicons.dev/icons?i=blender)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reallowmaster&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- --- -->
 
 <!-- ### Latest YouTube Videos -->
