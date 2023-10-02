@@ -37,8 +37,8 @@
 
 ---
 
-[![RealLowMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinedinarnaut&show_icons=true&hide_border&rank_icon=github&theme=radical)](https://github.com/RealLowMaster)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinedinarnaut&hide_progress=false&layout=compact&theme=radical)
+[![RealLowMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=reallowmaster&show_icons=true&hide_border&rank_icon=github&theme=radical)](https://github.com/RealLowMaster)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reallowmaster&hide_progress=false&layout=compact&theme=radical)
 
 <!-- --- -->
 
