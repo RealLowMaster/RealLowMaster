@@ -37,7 +37,8 @@
 
 ---
 
-[![RealLowMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=reallowmaster&show_icons=true&hide_border)](https://github.com/RealLowMaster)
+[![RealLowMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=reallowmaster&show_icons=true&hide_border&theme=radical&)](https://github.com/RealLowMaster)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reallowmaster&hide_progress=true)
 
 <!-- --- -->
 
