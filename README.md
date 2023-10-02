@@ -8,8 +8,8 @@
 > - Try Making My Own `Remotion` Template
 - :grin: I like playing games and write code
 
-### Contact With Me
-[<img height="32" width="32" alt="youtube" src="https://cdn.simpleicons.org/youtube/E74C3C">][youtube]
+<!-- ### Contact With Me
+[<img height="32" width="32" alt="youtube" src="https://cdn.simpleicons.org/youtube/E74C3C">][youtube] -->
 
 ### Languages I Use: 
 ![JavaScript](https://skillicons.dev/icons?i=js)
