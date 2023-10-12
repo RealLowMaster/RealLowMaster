@@ -41,21 +41,8 @@
 [![RealLowMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=reallowmaster&show_icons=true&hide_border&rank_icon=github&theme=radical)](https://github.com/RealLowMaster)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reallowmaster&hide_progress=false&layout=compact&theme=radical)
 
-<!-- --- -->
-
-<!-- ### Latest YouTube Videos -->
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-<!-- --- -->
-
-<!-- ### Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-[youtube]: https://www.youtube.com/LowMaster
+<!-- These are for Later -->
+[youtube]: https://www.youtube.com/channel/UC_oBFx4qWlzW8LI7s8upXnQ
 [linkedin]: https://
 [instagram]: https://
 [website]: https://
