@@ -25,7 +25,6 @@
 ![C#](https://skillicons.dev/icons?i=cs)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Java](https://skillicons.dev/icons?i=java)
-![Java](https://skillicons.dev/icons?i=java)
 
 
 
@@ -44,10 +43,10 @@
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 
 ---
-
+<!--
 [![RealLowMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=reallowmaster&show_icons=true&hide_border&rank_icon=github&theme=radical)](https://github.com/RealLowMaster)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reallowmaster&hide_progress=false&layout=compact&theme=radical)
-
+-->
 <!-- These are for Later -->
 [youtube]: https://www.youtube.com/channel/UC_oBFx4qWlzW8LI7s8upXnQ
 [linkedin]: https://
