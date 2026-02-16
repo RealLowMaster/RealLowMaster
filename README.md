@@ -1,12 +1,15 @@
 # Hi there, I'm LowMaster
 
-### I'm a Developer
+### I'm a Developer & Programmer
 - :telephone_receiver: Ask me Anything [Here](https://github.com/RealLowMaster/RealLowMaster/issues)
+- I'm Learning New Skills and Improving Old Ones
+<!--
 - :tophat: I'm currently working on `Rule34 Browser Pro` Version
 - :books: I'm currently adding a lot of thing to my programing knowledge
 - :soccer: 2023 Goals:
 > - Finishing `Rule34 Browser Pro` Project
 > - Try Making My Own `Remotion` Template
+-->
 - :grin: I like playing games and write code
 
 <!-- ### Contact With Me
@@ -21,6 +24,9 @@
 ![PHP](https://skillicons.dev/icons?i=php)
 ![C#](https://skillicons.dev/icons?i=cs)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Java](https://skillicons.dev/icons?i=java)
+![Java](https://skillicons.dev/icons?i=java)
+
 
 
 ### Frameworks I Use:
@@ -35,6 +41,7 @@
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Blender](https://skillicons.dev/icons?i=blender)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 
 ---
 
